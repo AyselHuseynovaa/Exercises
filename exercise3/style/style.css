@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+}
+
+body .text {
+  margin-top: 5rem;
+  margin-left: 16rem;
+}
+
+body .container {
+  width: 25rem;
+  margin-left: 15rem;
+}
+
+body #inputarea {
+  width: 300px;
+  height: 50px;
+  border: 1px solid black;
+  font-size: 25px;
+  vertical-align: middle;
+}
+
+body #addwhattoDo {
+  width: 50px;
+  height: 50px;
+  border: 1px solid black;
+  font-size: 30px;
+  vertical-align: middle;
+}
+
+body .to-dos {
+  margin-top: 25px;
+}
+/*# sourceMappingURL=style.css.map */
